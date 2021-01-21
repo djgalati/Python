@@ -7,5 +7,6 @@ The assignment for week 1 is to:
 The code I used in my program is as follows:
 
 ```python
-
+userInput = input("Enter your name: ")
+print(userInput)
 ```
