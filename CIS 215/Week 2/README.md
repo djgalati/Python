@@ -1,4 +1,4 @@
-# Week 2, Numbers and Strings ReadMe
+# Week 2, Numbers and Strings
 
 The assignment for our week 2 project is to:
     - Generate a list of names.
