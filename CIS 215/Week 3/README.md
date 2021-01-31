@@ -1,6 +1,7 @@
 # Week 3, Create lists, output as table
 
 The assignment for our week 3 project is to:
+    
     - Create a list of this information and output this list into a table with headers.
     - Next, output a second list with only the students who are Freshmen.
     
