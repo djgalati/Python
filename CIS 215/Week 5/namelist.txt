@@ -1,0 +1,6 @@
+Duane Marshall	Freshman	25	3.0
+Howard Thomas	Sophomore	63	3.75
+Betsy Randolf	Senior		120	3.8
+Nancy Bloom	Freshman        30	3.3
+Doug Hammersmith	Junior		85	2.75
+Rebecca Smith	Freshman	20	2.9
