@@ -1,4 +1,4 @@
-# Week 7, BubbleSort Algorithm
+# Week 7, Bubble Sort Algorithm
 
 The assignment for our week 7 project is to:
 
